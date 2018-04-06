@@ -1,5 +1,5 @@
 <h1>Week-4-game</h1>
-<h2>Overview</h2>
+<h1>Overview</h1>
 In this assignment, you'll create another fun and interactive game for web browsers. This time, your app must dynamically update your HTML pages with the jQuery library.
 
 Crystals Collector Game
